@@ -1,0 +1,6 @@
+{
+  "name": "CineGen AI - Studio Vidéo IA Gratuit",
+  "description": "Générez des vidéos cinématiques par IA gratuitement à partir de texte ou d'images avec rendu haute définition, contrôle de caméra et export immédiat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
